@@ -1,0 +1,58 @@
+C:\Users\EGYPT\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\EGYPT\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\EGYPT\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\EGYPT\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\EGYPT\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\EGYPT\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\EGYPT\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Algorithms\isa_final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Algorithms\isa_final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Algorithms\isa_final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Algorithms\isa_final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Algorithms\isa_final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Algorithms\isa_final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Algorithms\isa_final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\isa_final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\isa_final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\isa_final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\isa_final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\isa_final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\isa_final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\isa_final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+E:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+E:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+E:\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+E:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+E:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+E:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+E:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+E:\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
